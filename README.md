@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UCanCallMeG
 - 👀 I’m interested in computers, technology, quantum mechanics and sports.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python projects at the moment.
+- 💞️ I’m looking to collaborate on Python and JavaScript projects at the moment.
 - 📫 How to reach me --- guillermolozanojuanco@outlook.com ---
 
 <!---
